@@ -6,3 +6,25 @@
 	note: resume on a portfolio on Github special repository
 */
 
+body {
+	background-color: #D3CAC5;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+header {
+	text-align: center;
+	font-family: Times;
+}
+
+h2 {
+	font-family: Times;
+}
+
+.boldword {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
