@@ -58,8 +58,12 @@ a:hover {
 
 #baseball {
     	list-style-type: none;
-    	padding-left:0;
-	margin-top: 0;
+    	margin-top: 0;
+   	padding-left: 0;
+}
+
+#team {
+    	list-style-type: initial;
 }
 
 #links {
