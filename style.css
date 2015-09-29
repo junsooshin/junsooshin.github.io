@@ -23,7 +23,7 @@ h2 {
 
 img {
     	display: block;
-    	margin-top: 10px;
+    	padding-top: 10px;
     	margin: 0 auto;
 }
 
@@ -50,10 +50,6 @@ a:hover {
 	font-style: italic;
 }
 
-#links {
-	text-align: center;
-}
-
 #courses {
    	list-style-type: none;
    	margin-top: 0;
@@ -64,4 +60,8 @@ a:hover {
     	list-style-type: none;
     	padding-left:0;
 	margin-top: 0;
+}
+
+#links {
+	text-align: center;
 }
