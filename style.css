@@ -22,13 +22,27 @@ h2 {
 }
 
 img {
-    	margin-left: auto;
-    	margin-right: auto;
+    	display: block;
+    	margin: 0 auto;
 }
 
 a {
-	color: #000000;
+	color: blue;
 	text-decoration: none;
+}
+
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+a:hover {
+	color:blue;
+	text-decoration: underline;
+}
+
+li {
+	display: inline-block;
 }
 
 .boldword {
