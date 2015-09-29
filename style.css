@@ -21,6 +21,10 @@ h2 {
 	font-family: Times;
 }
 
+img {
+	text-align: center;
+}
+
 .boldword {
 	font-weight: bold;
 }
