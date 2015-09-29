@@ -23,6 +23,7 @@ h2 {
 
 img {
     	display: block;
+    	margin-top: 10px;
     	margin: 0 auto;
 }
 
@@ -51,4 +52,16 @@ a:hover {
 
 #links {
 	text-align: center;
+}
+
+#courses {
+   	list-style-type: none;
+   	margin-top: 0;
+   	padding-left: 0;
+}
+
+#baseball {
+    	list-style-type: none;
+    	padding-left:0;
+	margin-top: 0;
 }
