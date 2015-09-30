@@ -10,6 +10,7 @@
 body {
 	margin-left: 10%;
 	margin-right: 10%;
+	font-family: Times;
 }
 
 header {
@@ -46,34 +47,18 @@ a:hover {
 	font-weight: bold;
 }
 
+.list{
+    	list-style-type: none;
+    	margin-top: 0;
+   	padding-left: 0;
+}
+
+.detail {
+    	list-style-type: initial;
+}
+
 .italic {
 	font-style: italic;
-}
-
-#courses {
-   	list-style-type: none;
-   	margin-top: 0;
-   	padding-left: 0;
-}
-
-#sansai {
-    	list-style-type: none;
-    	margin-top: 0;
-   	padding-left: 0;
-}
-
-#dishwasher {
-    	list-style-type: initial;
-}
-
-#baseball {
-    	list-style-type: none;
-    	margin-top: 0;
-   	padding-left: 0;
-}
-
-#team {
-    	list-style-type: initial;
 }
 
 #links {
