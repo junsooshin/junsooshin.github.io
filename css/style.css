@@ -1,0 +1,62 @@
+html {
+	min-height: 2000px
+}
+
+/****  header  ****/
+
+.header-global {
+	/* keeps the header in the center */
+	/* https://stackoverflow.com/questions/18759299/how-to-position-heading-in-the-center-of-the-page */
+  position: relative;
+  margin: auto;
+  width: 186px;
+
+	padding: 1rem 0 0 0;
+	text-align: center;
+}
+
+.header-global-top {
+	border-bottom: 2px solid #3c3c3c;
+}
+
+.header-global-logo {
+	color: #222222;
+	font-family: Book Antiqua, Palatino;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+.header-global-logo:hover, .header-global-logo:visited, 
+.header-global-logo:active
+{
+	color: #222222;
+  text-decoration: none;
+}
+
+.nav-global-menu {
+	padding: 0.25rem 0 0 0;
+	list-style: none;
+}
+
+.nav-global-menu-item {
+	display: inline;  /* keeps the items side-by-side */
+	margin: 0 1.875rem 0 0;
+}
+
+.nav-global-menu-item-link {
+	font-family: Helvetica, Arial;
+	font-size: 0.875rem;
+	color: #3c3c3c;
+}
+
+.nav-global-menu-item-link:hover {
+	color: #808080;
+	text-decoration: none;
+}
+
+.nav-global-menu-item-link:active {
+	color: #3c3c3c;
+	text-decoration: none;
+}
+
+/****  main site  ****/
