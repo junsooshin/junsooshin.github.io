@@ -60,3 +60,9 @@ html {
 }
 
 /****  main site  ****/
+p {
+	font-family: Helvetica, Arial;
+	font-size: 0.875rem;
+	color: #3c3c3c;
+	text-align: center;
+}
